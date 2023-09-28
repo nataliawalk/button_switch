@@ -10,7 +10,7 @@ body {
 .box {
 	width: 316px;
 	height: 48px;
-	border: 1px solid black;
+	border: 1px solid rgb(9, 70, 103);
 	border-radius: 31px;
 	position: relative;
 	font-size: 28px;
